@@ -2,7 +2,7 @@
 
 Este proyecto esta utilizando un virtual enviroment de python. Para activarlo se corre el siguiente comando:
 
-###Windows
+### Windows
 ``.\env\Scripts\activate``
 
 ### MacOS
