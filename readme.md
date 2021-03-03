@@ -1,6 +1,7 @@
 # Implementacion de One Time Pad
 
 Este proyecto esta utilizando un virtual enviroment de python. Para activarlo se corre el siguiente comando:
+
 ###Windows
 ``.\env\Scripts\activate``
 
