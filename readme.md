@@ -16,4 +16,4 @@ Al terminar de correr el programa se generan dos archivos:
 - ``otp.txt`` : Este es el One Time Pad (llave)
 
 ## Para desencriptar
-``python decrypt [nombre de archivo de mensaje].txt [nombre de archivo de One Time Pad].txt``
+``python decrypt.py [nombre de archivo de mensaje].txt [nombre de archivo de One Time Pad].txt``
